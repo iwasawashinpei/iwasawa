@@ -7,3 +7,7 @@ GitHubのテスト
 ##メンバー
 
 *testmember
+
+追記
+
+ブランチ追記a
